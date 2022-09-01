@@ -15,3 +15,4 @@ file -> It's command that helps to show more inforamtion about a file(e.g the ty
 ln -> It's a command that helps to link a directory or file together
 cp -> It can help to copy file from one to another
 mv [[:upper:]]* -> Its helps to moves all files beginning with an uppercase letter to a directory
+rm *~ -> delete all files that ends with ~
