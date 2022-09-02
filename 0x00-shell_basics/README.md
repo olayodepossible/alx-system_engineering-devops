@@ -17,3 +17,4 @@ cp -> It can help to copy file from one to another
 mv [[:upper:]]* -> Its helps to moves all files beginning with an uppercase letter to a directory
 rm *~ -> delete all files that ends with ~
 mkdir -> It hels to create directory
+ls -pamv -> It helps to list files and directories in the current directory, separated by commas (,)
