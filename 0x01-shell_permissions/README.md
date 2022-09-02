@@ -7,3 +7,4 @@ touch -> for creating new file
 chmod u+x -> to give execution permisssion to a file
 chmod ug+x,o+r -> give multiple permission to user 
 chmod a+x -> adds execution permission to the owner
+chmod 007
