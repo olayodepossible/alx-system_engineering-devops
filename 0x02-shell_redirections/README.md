@@ -13,3 +13,4 @@
 #### 11-directories -> Count the number of directories and sub-directories in current directory
 #### 12-newest_files -> Display the 10 newest files in the current directory
 #### 13-unique -> Prints on a unique words from list of words
+#### 14-findthatword -> Display every lines that contain a specified word from a file
