@@ -18,3 +18,4 @@
 #### 16-whatsnext -> Display lines containing the pattern “root” and 3 lines after them in a file
 #### 17-hidethisword -> Display all the lines in a specified file that do not contain the specified pattern
 #### 18-letteronly -> Display all lines of the specified file that start with letter
+#### 19-AZ -> Script to replace all characters A and c from input to Z and e respectively
