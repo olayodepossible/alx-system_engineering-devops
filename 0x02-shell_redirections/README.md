@@ -16,3 +16,4 @@
 #### 14-findthatword -> Display every lines that contain a specified word from a file 
 #### 15-countthatword -> Display the numebr of lines that contain the specified pattern in a file
 #### 16-whatsnext -> Display lines containing the pattern “root” and 3 lines after them in a file
+#### 17-hidethisword -> Display all the lines in a specified file that do not contain the specified pattern
