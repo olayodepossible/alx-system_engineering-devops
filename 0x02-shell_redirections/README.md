@@ -23,3 +23,4 @@
 #### 21-reverse -> Script to reverse an input
 #### 22-user_and_homes ->  Script that displays all users and their home directories, sorted by users
 #### 100-empty_casks -> Script that finds all empty files and directories in the current directory and all sub-directories
+#### 101-gifs -> Script that lists all the files with a .gif extension in the current directory and all its sub-directories
