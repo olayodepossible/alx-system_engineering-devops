@@ -7,3 +7,4 @@
 #### 5-firstlines -> Display the first 10 lines of a file
 #### 6-third_line -> Display the third line of a file
 #### 7-file -> Create a file
+#### 8-cwd_state -> Write an output to a file
