@@ -8,3 +8,4 @@
 #### 6-third_line -> Display the third line of a file
 #### 7-file -> Create a file
 #### 8-cwd_state -> Write an output to a file
+#### 9-duplicate_last_line -> Duplicate the last line of a file
