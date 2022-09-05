@@ -20,3 +20,4 @@
 #### 18-letteronly -> Display all lines of the specified file that start with letter
 #### 19-AZ -> Script to replace all characters A and c from input to Z and e respectively
 #### 20-hiago -> Script to remove all specified letters from an input
+#### 21-reverse -> Script to reverse an input
