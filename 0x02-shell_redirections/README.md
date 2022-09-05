@@ -11,3 +11,4 @@
 #### 9-duplicate_last_line -> Duplicate the last line of a file
 #### 10-no_more_js -> Script that deletes all files end with .js in the current directory
 #### 11-directories -> Count the number of directories and sub-directories in current directory
+#### 12-newest_files -> Display the 10 newest files in the current directory
