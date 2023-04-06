@@ -34,19 +34,15 @@ defaults
 	errorfile 504 /etc/haproxy/errors/504.http
 
 # start of parameters for jacobgbemi.tech
-frontend jacobgbemi.tech-http-frontend
+frontend testfrontend
 	bind	 *:80
+  bind   *:443 ssl crt /etc/haproxy/certs/www.zeeweb.tech.pem
 	option forwardfor
 	default_backend	 nginx_webservers
 
 
-frontend  jacobgbemi.tech-https-frontend
-	bind *:443 ssl crt /etc/letsencrypt/live/www.jacobgbemi.tech/fullchain.pem
-        default_backend nginx_webservers
-
-
 backend nginx_webservers
         balance roundrobin
-        server 33935-web-01 34.239.147.107:80 check
-        server 33935-web-02 52.3.247.207:80 check
+        server 155121-web-01 100.26.154.133:80 check
+        server 155121-web-02 100.27.14.56:80 check
 # end of parameters
