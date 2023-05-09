@@ -19,6 +19,5 @@ After a small sitewide update was deployed without first being tested, outage to
 
 ### Corrective and Preventative Measures
 After a discussion it has been decided we can prevent this in the future by:
-
-Modifying configuration files for more error logging to leverge on third-party logging service to quicken response times
-Test before deploying on all servers no matter how small an update. 
+- Modifying configuration files for more error logging or leverge on third-party logging service to quicken response times  
+- Test before deploying on all servers no matter how small an update. 
