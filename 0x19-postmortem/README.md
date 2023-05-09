@@ -7,11 +7,11 @@
 Last week, it was reported that our application server was down, returning 500 Error on all requests made on the platform routes, all the services were down including api exposed for third-party. 90% of the users were affected. The root cause was the failure of our master server web-01.
 
 ### Timeline
-6:30 AM Outage begins
-6:40 AM Error logs checked by DevOps team
-6:43 AM Configuration updated to log extra errors
-6:45 AM Filename error caught in config file
-6:47 AM Execute Puppet manifest across all company servers
+6:30 AM Outage begins  
+6:40 AM Error logs checked by DevOps team  
+6:43 AM Configuration updated to log extra errors  
+6:45 AM Filename error caught in config file  
+6:47 AM Execute Puppet manifest across all company servers  
 7:49 AM 100% restored and back online
 
 ### Root Cause and Resolution
